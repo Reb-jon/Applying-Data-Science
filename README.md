@@ -20,12 +20,19 @@ Repository Structure:
 Applying-Data-Science/
 │
 ├── Data Preprocessing/       # Cleaning, leakage control, encoding
+
 ├── Macro_features/           # Macroeconomic variable integration and analysis
+
 ├── Main Model/               # Final model training and evaluation
+
 ├── Models/                   # Alternative architectures (XGBoost, MLP, LSTM)
+
 ├── metrics results.xlsx      # Performance metrics across models
+
 ├── Copy of model performance(1).xlsx
+
 ├── requirements.txt          # Python package dependencies for the project
+
 └── README.md                 # You're here!
 
 Usage:
