@@ -1,4 +1,4 @@
-Credit Scoring with Machine Learning
+Credit Scoring with Machine Learning:
 A modular framework for consumer default prediction using LendingClub, macroeconomic, and environmental data.
 
 Overview
